@@ -16,3 +16,5 @@ Welcome to the technical architecture and engineering leadership portfolio of **
 - **Fulmo Technologies (Fractional CTO):** Leading development of AI/analytics-driven educational tools and behavioral analytics platforms.
 - **Qwykr Technologies (CTO / Director):** Spearheaded AI-driven behavioral analytics, data pipelines, and scalable microservices architectures.
 - **Digital Green (Principal Consultant):** Developed research-backed impact evaluation models for sustainable agricultural extension systems, presented to stakeholders funded by Bill Gates.
+
+[+]
