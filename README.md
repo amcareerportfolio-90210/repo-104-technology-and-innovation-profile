@@ -2,7 +2,7 @@
 
 ### Technology & Innovation Profile
 
-Welcome to the technical architecture and engineering leadership portfolio of **Anand Manikutty**. This repository chronicles over two decades of hands-on software engineering, enterprise product management, and systems design across global technology leaders and high-growth startups[cite: 13].
+Welcome to the technical architecture and engineering leadership portfolio of **Anand Manikutty**. This repository chronicles over two decades of hands-on software engineering, enterprise product management, and systems design across global technology leaders and high-growth startups.
 
 ---
 
