@@ -17,4 +17,5 @@ Welcome to the technical architecture and engineering leadership portfolio of **
 - **Digital Green (Principal Consultant):** Developed research-backed impact evaluation models for sustainable agricultural extension systems, presented to stakeholders funded by Bill Gates.
 - **Microsoft (Software Design Engineer - SQL Server Group)**: Designed and implemented core database performance optimization techniques and relational engine features; member of the engineering team that set a TPC world record in database performance.
 - **Oracle Corporation (Senior Member of Technical Staff & Principal Product Manager (separate stints))**: Led design for server technologies including SQL/XML functions, XPath Query Rewrite, and the XQuery parser; directed Application Development Framework features supporting enterprise application suites generating $3B+ in revenue.
+
 [+]
