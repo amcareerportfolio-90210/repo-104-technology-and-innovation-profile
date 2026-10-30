@@ -13,8 +13,8 @@ Welcome to the technical architecture and engineering leadership portfolio of **
 - **Product Leadership:** Directed product management for frameworks underlying enterprise suites (CRM, HCM, Financials) generating over $3 billion in annual revenue.
 
 ### Key Systems & Projects
-- **Fulmo Technologies (Fractional CTO):** Leading development of AI/analytics-driven educational tools and behavioral analytics platforms.
-- **Qwykr Technologies (CTO / Director):** Spearheaded AI-driven behavioral analytics, data pipelines, and scalable microservices architectures.
+- **Fulmo Technologies (Fractional CTO):** Leading development of AI/analytics-driven educational tools and web applications.
 - **Digital Green (Principal Consultant):** Developed research-backed impact evaluation models for sustainable agricultural extension systems, presented to stakeholders funded by Bill Gates.
-
+- **Microsoft (Software Design Engineer - SQL Server Group)**: Designed and implemented core database performance optimization techniques and relational engine features; member of the engineering team that set a TPC world record in database performance.
+- **Oracle Corporation (Senior Member of Technical Staff & Principal Product Manager (separate stints))**: Led design for server technologies including SQL/XML functions, XPath Query Rewrite, and the XQuery parser; directed Application Development Framework features supporting enterprise application suites generating $3B+ in revenue.
 [+]
